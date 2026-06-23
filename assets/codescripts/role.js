@@ -22,7 +22,7 @@ roleButton.addEventListener("click", () => {
 
     const selectedRole = roles[randomIndex];
 
-    resultRole.src = `../assets/images/small_talk/suspect-cards/roles/${selectedRole}.PNG`;
+    resultRole.src = `../assets/images/small_talk/suspect-cards/${selectedRole}.png`;
 
     resultRole.style.display = "block";
 
