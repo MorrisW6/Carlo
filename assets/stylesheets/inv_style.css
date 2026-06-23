@@ -44,7 +44,7 @@ button {
     height: 300px;
     width: 210px;
     margin-bottom: 30px;
-    margin-right: 30px;
+    margin-right: 10px;
 }
 
 #penalty {
@@ -65,10 +65,9 @@ button {
 }
 
 #intro-image {
-    display: inline-block;
     height: 300px;
     width: 100%;
-    max-width: 700px;
+    max-width: 620px;
 }
 
 .head-container {
@@ -88,7 +87,8 @@ button {
     height: 30px;
     border-radius: 10px;
     align-self: center;
-    margin-right: 30px;
+    border: 2px solid black;
+    margin-right: 10px;
 }
 
 .primary-container {
