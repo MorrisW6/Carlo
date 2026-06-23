@@ -1,0 +1,55 @@
+body {
+    background-color: #0A2947;
+}
+
+/* F3E4C9 kerem D3D4C0 khakestary 8B5E3C ghahveei */
+.title-box {
+    background-color: #F3E4C9;
+    border: 6px solid #8B5E3C;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    border-bottom: 2px solid red;
+}
+
+.select {
+    background-color: #D3D4C0;
+    border: 6px solid #8B5E3C;
+    height: 300px;
+}
+
+.character {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 60px;
+}
+
+a {
+    color: red;
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    border-bottom: 2px solid red;
+}
+
+/* .investigator-main {
+    padding-left: 10px;
+    padding-top: 40px;
+    height: 90px;
+    margin-bottom: 1px;
+}
+
+.suspect-main {
+    padding-left: 10px;
+} */

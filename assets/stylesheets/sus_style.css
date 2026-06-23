@@ -1,0 +1,60 @@
+body {
+    background-color: #0A2947;
+}
+
+.title-box {
+    background-color: #F3E4C9;
+    border: 6px solid #8B5E3C;
+}
+
+
+h1 {
+    color: red;
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+}
+
+button {
+    color: red;
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    background-color:  #F3E4C9;
+    border-radius: 10px;
+}
+
+.items {
+    background-color: #D3D4C0;
+    padding-top: 20px;
+}
+
+.background-box {
+    border: 2px solid black;
+    min-width: 230px;
+    min-height: 230px;
+    max-width: fit-content;
+}
+
+.role-box {
+    border: 2px solid black;
+    min-width: 230px;
+    min-height: 600px;
+    max-width: fit-content;
+}
+
+#resultRole {
+    height: 600px;
+}
+
+#background-button {
+    margin-bottom: 30px;
+}
+
+#role-button {
+    margin-bottom: 30px;
+}
+
+.theContainer {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
