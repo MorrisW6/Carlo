@@ -7,7 +7,7 @@ backgroundButton.addEventListener("click", () => {
     const randomNumber = Math.floor(Math.random() * 30) + 1;
 
     // Set image path
-    resultBackground.src = `../assets/images/small_talk/suspect-cards/backgrounds/${randomNumber}.png`;
+    resultBackground.src = `../assets/images/small_talk/suspect-cards/backgrounds/${randomNumber}.PNG`;
 
     // Optional: display alt text
     resultBackground.alt = `Image ${randomNumber}`;
